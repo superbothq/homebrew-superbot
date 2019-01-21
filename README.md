@@ -1,7 +1,7 @@
-# homebrew-superbot
+# tap
 
 MacOS Homebrew tap for superbot
 
 ## Usage
 
-    brew install superbothq/superbot/superbot
+    brew install superbothq/tap/superbot
